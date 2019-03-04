@@ -1,0 +1,41 @@
+[
+	{
+	"id": 1,
+	"name": "Prosciutto",
+	"description": "Scelerisque id ad posuere parturient eget condimentum vestibulum laoreet augue cursus facilisis fringilla hac a leo proin erat aenean adipiscing leo condimentum.At justo volutpat erat est justo a fringilla pulvinar aenean ad a maecenas nam viverra primis scelerisque proin porttitor conubia nunc venenatis id.Sagittis nascetur in ipsum tincidunt parturient vivamus venenatis libero a.",
+	"categories" : ["Salumeria", "Fresco"],
+	"tags" : ["healty", "fat free"],
+	"extra" : []
+	},
+	{
+	"id": 2,
+	"name": "Manzo",
+	"description": "Torquent convallis arcu suspendisse at ullamcorper fermentum eu quam venenatis a parturient ut aliquet habitasse a praesent condimentum eros hendrerit diam scelerisque morbi malesuada luctus id facilisi inceptos a parturient.Id vestibulum a a.",
+	"categories" : ["Carne", "Fresco"],
+	"tags" : ["gluten free", "fat free"],
+	"extra" : ["unique description line"]
+	},
+	{
+	"id": 3,
+	"name": "Trota",
+	"description": "Torquent convallis arcu suspendisse at ullamcorper fermentum eu quam venenatis a parturient ut aliquet habitasse a praesent condimentum eros hendrerit diam scelerisque morbi malesuada luctus id facilisi inceptos a parturient.Id vestibulum a a.",
+	"categories" : ["Pesce", "Surgelato"],
+	"tags" : [],
+	"extra" : ["1st description line", "2nd description line"]
+	},
+	{
+	"id": 4,
+	"name": "Farro",
+	"description": "Vestibulum condimentum a condimentum nam a viverra aenean cum a porta iaculis non at nam.",
+	"categories" : ["Cereali", "Secco"],
+	"tags" : [],
+	"extra" : []
+	},
+	{
+	"id": 5,
+	"name": "Avena",
+	"description": "Tortor interdum dolor eget facilisis mollis amet suspendisse vestibulum molestie nostra hendrerit dignissim vel augue ridiculus praesent lacinia sociis ullamcorper ullamcorper.Adipiscing iaculis consectetur quisque a nec netus per senectus praesent a habitant platea condimentum ad a ridiculus sapien himenaeos scelerisque.Condimentum.",
+	"categories" : ["Cereali", "Secco"],
+	"tags" : []
+	}
+]
